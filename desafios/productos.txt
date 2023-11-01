@@ -1,0 +1,29 @@
+[
+	{
+		"id": 1,
+		"title": "buen",
+		"description": "dia",
+		"price": 100,
+		"thumbnail": "www.hola.com",
+		"code": 123,
+		"stock": 11
+	},
+	{
+		"id": 2,
+		"title": "murcielago",
+		"description": "nono",
+		"price": 3,
+		"thumbnail": "www.lol.com",
+		"code": 222,
+		"stock": 66
+	},
+	{
+		"id": 3,
+		"title": "chau",
+		"description": "lol",
+		"price": 100,
+		"thumbnail": "www.holasss.com",
+		"code": 12,
+		"stock": 112
+	}
+]
